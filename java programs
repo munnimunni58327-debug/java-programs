@@ -1,0 +1,14 @@
+import java.until.Scanner;
+public class Main
+{ 
+  public static void main(string args[])
+  {
+    Scanner s=new Scanner(Scanner.in);
+    String Name=s.nextLine();
+    int Age=s.nextInt();
+    double Salary=s.next double();
+    System. out.println("Name="+name);
+    System.out.println("Age="+age);
+    System.out.println("Salary="+salary);
+  }
+}
